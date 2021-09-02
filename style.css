@@ -1,0 +1,35 @@
+body, html {
+   margin: 0;
+   padding: 0;
+   width: 100%;
+   min-height: 100%;
+
+}
+
+header {
+    height:100px;
+    max-width: 100%;
+    text-align: center;
+    background-color: steelblue;
+
+}
+
+nav {
+    max-width: 100%;
+    background-color: rgb(35, 65, 88);
+    font-size: 20px;
+    text-align: center;
+    color: crimson;
+
+}
+
+main {
+    height: 100%;
+    max-width: 100;
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+footer {
+    background-color: white;
+}
